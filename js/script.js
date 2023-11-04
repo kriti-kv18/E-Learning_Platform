@@ -79,7 +79,7 @@ function callAleartLogin()
    alert("Welcome back");
 }
 
-function callAleartLogin()
+function callAleartRegister()
 {
    location.href='home.html';
    alert("Thank you for registering have a great journey!!!!!!");
